@@ -1,4 +1,4 @@
-# Oi, eu sou Maria Luiza 👋
+# Oi, eu sou Maria Luiza 
 
 🎓 Estudante de **Engenharia de Robôs na UFPB**
 
